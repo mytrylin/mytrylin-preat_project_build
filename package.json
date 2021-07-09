@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mytrylin/mytrylin-preat_project_build/issues"
   },
-  "homepage": "https://github.com/mytrylin/mytrylin-preat_project_build#readme"
+  "homepage": "https://github.com/mytrylin/mytrylin-preat_project_build#readme",
+  "devDependencies": {
+    "preact": "^10.5.14"
+  }
 }
